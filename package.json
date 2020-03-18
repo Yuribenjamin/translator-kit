@@ -1,9 +1,9 @@
 {
-  "name": "webpack-react-boilerplate",
+  "name": "iragab",
   "version": "0.1.0",
-  "description": "Starter template webpack and react",
+  "description": "Personal website",
   "main": "index.js",
-  "repository": "git@github.com:Yuribenjamin/webpack-react-boilerplate.git",
+  "repository": "git@github.com:Yuribenjamin/iragab.git",
   "author": "Ibrahim Ragab <Abrahammoustafa@hotmail.co.uk>",
   "license": "MIT",
   "scripts": {
@@ -53,6 +53,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-hot-loader": "^4.12.19"
+    "react-hot-loader": "^4.12.19",
+    "styled-components": "^5.0.1"
   }
 }
